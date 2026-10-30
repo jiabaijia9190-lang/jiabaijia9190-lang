@@ -15,6 +15,43 @@ Welcome to the official GitHub profile of **JIABAIJIA Furniture**, a leading OEM
 ---
 
 ## 🛏️ Product Specifications
+Explore our complete OEM/ODM product lines and direct factory supply solutions below:
+
+### 🛏️ 1. Mattress Collection (床垫系列)
+
+| Product Category | Features & Application | Official Link |
+| :--- | :--- | :--- |
+| **Compressed Mattresses** | Bed-in-a-box packaging, optimized for e-commerce & shipping | [Vacuum-Compressed Mattresses](https://jiabaijiafurniture.com/compressed-mattresses/) |
+| **Pocket Spring Mattresses** | Individually wrapped coils, zero motion transfer, ergonomic support | [Pocket Spring Mattresses](https://jiabaijiafurniture.com/pocket-spring-mattresses/) |
+| **Memory Foam Mattresses** | Gel-infused memory foam, pressure relief & body contouring | [Memory Foam Mattresses](https://jiabaijiafurniture.com/memory-foam-mattresses/) |
+| **Hybrid Mattresses** | Pocket coil core + latex/memory foam comfort layers | [Hybrid Mattresses](https://jiabaijiafurniture.com/hybrid-mattresses/) |
+| **Natural Latex Mattresses** | Breathable, hypoallergenic, eco-friendly sustainable sleeping | [Natural Latex Mattresses](https://jiabaijiafurniture.com/natural-latex-mattresses/) |
+| **Traditional Spring Mattresses** | Heavy-duty innerspring support, durable contract bedding | [Innerspring Mattresses](https://jiabaijiafurniture.com/spring-mattresses/) |
+| **High-Density Foam Mattresses** | Resilient core foam, customizable firmness and density | [Foam Mattresses](https://jiabaijiafurniture.com/foam-mattresses/) |
+| **Folding Mattresses** | Tri-fold space-saving design, portable for guest & travel use | [Folding Mattresses](https://jiabaijiafurniture.com/folding-mattresses/) |
+| **Floor Mattresses** | Japanese tatami style, multi-functional casual floor bedding | [Floor Mattresses](https://jiabaijiafurniture.com/floor-mattresses/) |
+| **Mattress Toppers** | High-density foam & latex toppers for comfort upgrading | [Mattress Toppers](https://jiabaijiafurniture.com/mattress-toppers/) |
+
+---
+
+### 🛋️ 2. Sofa & Seating Collection (沙发及软体家具系列)
+
+| Product Category | Features & Application | Official Link |
+| :--- | :--- | :--- |
+| **Compressed Sofas** | Vacuum roll-packed modular sofas for courier delivery | [Compressed Sofas](https://jiabaijiafurniture.com/compressed-sofas/) |
+| **Pocket Spring Sofas** | Independent spring cushion system, long-lasting bounce & comfort | [Pocket Spring Sofas](https://jiabaijiafurniture.com/pocket-spring-sofas/) |
+| **Full Foam Sofas** | Ergonomic all-foam structure, modern minimalist floor loungers | [Foam Sofas](https://jiabaijiafurniture.com/foam-sofas/) |
+| **Bean Bag Sofas** | Casual leisure seating, soft filling, lightweight & flexible | [Bean Bag Sofas](https://jiabaijiafurniture.com/bean-bag-sofas/) |
+
+---
+
+### 🏭 3. OEM/ODM Services & Global Supply Chain (定制与企业合作)
+
+| Service Type | Details & Capabilities | Direct Access |
+| :--- | :--- | :--- |
+| **Custom Manufacturing** | OEM/ODM private labeling, custom dimensions, materials & branding | [Custom OEM/ODM Services](https://jiabaijiafurniture.com/custom-manufacturing/) |
+| **B2B Business Solutions** | Bulk wholesale solutions for hotel projects, retailers, and distributors | [Industry Solutions](https://jiabaijiafurniture.com/solutions/) |
+| **Get a Free Quote** | Inquire about factory pricing, MOQs, and sample production | [Contact Our Sales Team](https://jiabaijiafurniture.com/contact/) |
 
 ### 1. Vacuum-Compressed Mattresses (真空压缩床垫系列)
 - **Core Materials:** High-density support foam, gel-infused memory foam, and individually wrapped pocket springs.
